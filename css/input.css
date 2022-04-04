@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+button{
+	background-color: #000000;
+	color: aliceblue;
+	margin: 0 auto;
+}
+
+body{
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+
+.inputs{
+	width: 100px;
+	height: 100px;
+	margin: 50px auto;
+	position: relative;
+}
+
+.inputs button{
+	font-size: 15px;
+}
+
+.msg {
+	color: floralwhite;
+	text-align: center;
+}
+
+
+
+

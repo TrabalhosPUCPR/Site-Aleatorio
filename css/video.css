@@ -1,0 +1,101 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+
+button{
+	background-color: #000000;
+	color: aliceblue;
+	margin: 0 auto;
+}
+
+.base{
+	width: 1010px;
+	height: 100%;
+	margin: 50px auto;
+}
+
+.grupo1{
+	background-color: black;
+	width: 505px;
+	height: 200px;
+	position: absolute;
+	outline: solid;
+	outline-color: aqua;
+	outline-width: 2.5px;
+}
+
+.imagem1, .imagem2{	
+	width: 200px;
+	height: 200px;
+	position: absolute;
+}
+
+.imagem2{
+	margin-left: 300px;
+}
+
+.grupo2{
+	background-color: black;
+	width: 505px;
+	height: 200px;
+	margin-left: 510px;
+	outline: solid;
+	outline-color: firebrick;
+	outline-width: 2.5px;
+}
+
+.imagem1_2, .imagem2_2{	
+	width: 200px;
+	height: 200px;
+	position: absolute;
+}
+
+.imagem2_2{
+	margin-left: 300px;
+}
+
+.grupo3{
+	background-color: black;
+	width: 505px;
+	height: 200px;
+	margin-top: 5px;
+	outline: solid;
+	outline-color: darkgreen;
+	outline-width: 2.5px;
+	position: absolute;
+}
+
+.imagem1_3, .imagem2_3{	
+	width: 200px;
+	height: 200px;
+	position: absolute;
+}
+.imagem2_3{
+	margin-left: 300px;
+}
+
+.grupo4{
+	background-color: black;
+	width: 505px;
+	height: 200px;
+	margin-left: 510px;
+	margin-top: 5px;
+	outline: solid;
+	outline-color: darkorchid;
+	outline-width: 2.5px;
+}
+
+.imagem1_4, .imagem2_4{	
+	width: 200px;
+	height: 200px;
+	position: absolute;
+}
+.imagem2_4{
+	margin-left: 300px;
+}
+
+

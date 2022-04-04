@@ -1,0 +1,77 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+button{
+	background-color: #000000;
+	color: aliceblue;
+}
+
+.base{
+	color: aliceblue;
+	font-size: 50px;
+	text-align: center;
+	margin: -25px auto;
+}
+
+.botoes, .decodificar{
+	color: aliceblue;
+	text-align: center;
+	margin:  40px auto;
+}
+
+.botoes{
+	position: absolute;
+}
+
+.decodificar{
+	float: right;
+}
+
+.botoes img, .decodificar img{
+	max-width: 200px;
+	max-height: 200px;
+}
+
+.fontetexto, .fontetexto2, .fontetexto3{
+	font-size: 20px;
+	color: aliceblue;
+	display: none;
+}
+
+.este{
+	width: 70%;
+	height: 50%;
+	margin: auto;
+}
+
+.este > div{
+	display: inline-block;
+}
+
+.creditos{
+	width: 600px;
+	color: aliceblue;
+	text-align: center;
+	font-size: 25px;
+	margin-left: -85px;
+	margin-top: 60px;
+	
+}
+
+.lista{
+	width: 50%;
+	height: 500px;
+	margin: -20px auto;
+	text-align: center;
+	color: aliceblue;
+}
+
+.lista img{
+	border: solid 5px black;
+	border-radius: 20px;
+}
+
+
+
+
