@@ -10,9 +10,3 @@
 - Jogo em javascript
 
 
-## Grupo: 
-- Filipe Retondario Sales
-- Leonardo Matthew Knight
-- Matthaus Rautenberg Roth
-- Théo César Zanotto da Silva
-
